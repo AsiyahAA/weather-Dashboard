@@ -10,6 +10,7 @@
 ### GitBash Terminal is once again needed to updload edits made in your local repository onto GitHub-using the same commands of git add ./git commit -m/git push in order for the changes to be displayed when website is deployed. Once changes are uploaded, navigate to the settings where your repository is displayed on GitHub and scroll down to Pages in the sidebar. Once there, under Source, select Branch:main and save. A link will then appear and although it will take time, the website will be ready.
 ## Screenshot
 ### <img width="1128" alt="2022-07-07" src="https://user-images.githubusercontent.com/104933717/177898841-f319afb5-2665-470c-8086-252836f23a13.png">
+### <img width="1128" alt="2022-07-07 (1)" src="https://user-images.githubusercontent.com/104933717/177899073-db7f9d88-2082-4c86-a41b-8e9fe39846ff.png">
 ## Link
 ### https://asiyahaa.github.io/weather-Dashboard/
 ## Status 
