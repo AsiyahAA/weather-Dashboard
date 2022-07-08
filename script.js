@@ -20,7 +20,7 @@ function getParameters (event) {
 
 function apiSearch(searchTerm) {
 
-    var requestUrlCoordinates = `http://api.openweathermap.org/geo/1.0/direct?q=${searchTerm}&limit=${limit}&appid=${APIKey}`
+    var requestUrlCoordinates = `https://api.openweathermap.org/geo/1.0/direct?q=${searchTerm}&limit=${limit}&appid=${APIKey}`
     console.log(requestUrlCoordinates)
 
     fetch(requestUrlCoordinates)
