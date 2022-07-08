@@ -1,1 +1,32 @@
-style
+.jumbotron {
+    background-color: rgb(24, 24, 87);
+    color: white;
+}
+
+.card-body {
+    width: 100%;
+    background-color:rgb(24, 24, 87) ;
+    color: white;
+
+}
+
+.weather-card {
+    margin-left: 200px;
+}
+
+.top-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.mini-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+}
+
+.mini {
+    margin-top: 100px;
+    margin-left: 20px;
+}
+
